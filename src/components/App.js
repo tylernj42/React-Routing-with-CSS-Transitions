@@ -7,7 +7,7 @@ class App extends Component {
     render() {
         let year = new Date().getFullYear()
         return (
-            <BrowserRouter>
+            <BrowserRouter basename="/projects/react-router-with-css-transitions/">
                 <div>
                     <header>
                         <h1 className="display-4">React Router</h1>

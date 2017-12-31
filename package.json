@@ -16,5 +16,6 @@
   },
   "devDependencies": {
     "react-router-dom": "^4.2.2"
-  }
+  },
+  "homepage": "https://tylernj42.github.io/projects/react-router-with-css-transitions"
 }
